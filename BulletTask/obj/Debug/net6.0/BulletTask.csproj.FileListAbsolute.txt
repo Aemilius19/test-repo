@@ -1,0 +1,15 @@
+C:\Users\ca.r215.06\Desktop\BulletTask\bin\Debug\net6.0\BulletTask.exe
+C:\Users\ca.r215.06\Desktop\BulletTask\bin\Debug\net6.0\BulletTask.deps.json
+C:\Users\ca.r215.06\Desktop\BulletTask\bin\Debug\net6.0\BulletTask.runtimeconfig.json
+C:\Users\ca.r215.06\Desktop\BulletTask\bin\Debug\net6.0\BulletTask.dll
+C:\Users\ca.r215.06\Desktop\BulletTask\bin\Debug\net6.0\BulletTask.pdb
+C:\Users\ca.r215.06\Desktop\BulletTask\obj\Debug\net6.0\BulletTask.csproj.AssemblyReference.cache
+C:\Users\ca.r215.06\Desktop\BulletTask\obj\Debug\net6.0\BulletTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r215.06\Desktop\BulletTask\obj\Debug\net6.0\BulletTask.AssemblyInfoInputs.cache
+C:\Users\ca.r215.06\Desktop\BulletTask\obj\Debug\net6.0\BulletTask.AssemblyInfo.cs
+C:\Users\ca.r215.06\Desktop\BulletTask\obj\Debug\net6.0\BulletTask.csproj.CoreCompileInputs.cache
+C:\Users\ca.r215.06\Desktop\BulletTask\obj\Debug\net6.0\BulletTask.dll
+C:\Users\ca.r215.06\Desktop\BulletTask\obj\Debug\net6.0\refint\BulletTask.dll
+C:\Users\ca.r215.06\Desktop\BulletTask\obj\Debug\net6.0\BulletTask.pdb
+C:\Users\ca.r215.06\Desktop\BulletTask\obj\Debug\net6.0\BulletTask.genruntimeconfig.cache
+C:\Users\ca.r215.06\Desktop\BulletTask\obj\Debug\net6.0\ref\BulletTask.dll
